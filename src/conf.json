@@ -1,0 +1,4 @@
+{
+    "openAIToken": "123",
+    "promt": "===== BEGIN GIT DIFF =====$(git diff --cached --no-color)===== END GIT DIFF ===== Write a git commit message for this diff. "
+}
